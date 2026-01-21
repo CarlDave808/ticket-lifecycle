@@ -77,3 +77,22 @@ In this tutorial, you will learn how osTicket manages the ticket lifecycle-from 
   5. If the issue is unclear, contact the user by phone or email to gather more details and better understanding with their system.
 </p>
 <br />
+<img width="887" height="452" alt="Screenshot 2026-01-21 111605" src="https://github.com/user-attachments/assets/c441b270-c8d5-437d-8b8b-96a5c9bc067d" />
+<img width="876" height="489" alt="Screenshot 2026-01-21 111754" src="https://github.com/user-attachments/assets/2d0b2959-59be-4a5f-b183-99acdfefb6e9" />
+
+  6. Assign an appropriate priority level based on the issue
+
+  7. Place the ticket under the Support department, as it falls within the help desk's responsibilities and will be handled by the support technician
+
+<img width="872" height="490" alt="Screenshot 2026-01-21 112032" src="https://github.com/user-attachments/assets/1aa1229e-00fe-44bb-8d99-193f2f52d52d" />
+
+  8. Navigate to the SLA Plan and assign either Sev-A, Sev-B, or Sev-C based on the issue's urgency.
+
+<img width="877" height="461" alt="Screenshot 2026-01-21 112823" src="https://github.com/user-attachments/assets/f255b532-bdba-4986-9e0f-d5268754702d" />
+
+  9. Once the solution is identified, contact the customer to explain it and confirm the issue is resolved, then close the ticket.
+
+  10. Update the ticket Status to Closed after the problem has been fixed.
+
+
+
