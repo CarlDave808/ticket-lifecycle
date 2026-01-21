@@ -94,5 +94,6 @@ In this tutorial, you will learn how osTicket manages the ticket lifecycle-from 
 
   10. Update the ticket Status to Closed after the problem has been fixed.
 
+<h2>Final Resolution</h2>
 
-
+Address and resolve all remaining open tickets, verify that each issue has been properly fixed, and ensure every ticket is correctly updated and closed in the system.
