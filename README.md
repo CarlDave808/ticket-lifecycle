@@ -27,12 +27,19 @@ In this tutorial, you will learn how osTicket manages the ticket lifecycle-from 
 
 <h2>Access URLs</h2>
 
--Admin/Analyst Login Page:
+- Admin/Analyst Login Page:
 
+  http://localhost/osTicket/scp/login.php
+  
 <h2>Lab Objective</h2>
 
+- Log into osTickets
+- Review and manage ticket details as help desk agents
+- Learn how departments, SLAs, priorities, and assignments impact ticket visibility
+- resolve tickets from start to finish
+- Examine real-world ticketing behaviors and limitations
 
-http://localhost/osTicket/scp/login.php 
+
 
 <h2>Lifecycle Stages</h2>
 
