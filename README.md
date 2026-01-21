@@ -44,25 +44,36 @@ In this tutorial, you will learn how osTicket manages the ticket lifecycle-from 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="444" height="361" alt="Screenshot 2026-01-21 105335" src="https://github.com/user-attachments/assets/a0ac0c07-3481-434d-8e9c-d12d31538905" />
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h2>Log into osTickets</h2>
+
+1. Navigate:
+
+    http://localhost/osTicket/scp/login.php
+  
+  2. Log into your user account
+  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="889" height="346" alt="Screenshot 2026-01-21 111001" src="https://github.com/user-attachments/assets/5679c8ca-c715-47a7-b6f7-5012452bc075" />
+
+3. Navigate to the Tickets section and review tickets that requires action in osTicket
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="882" height="510" alt="Screenshot 2026-01-21 111157" src="https://github.com/user-attachments/assets/a6811863-fb69-4861-aa23-6ea96295ab6d" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  4. Review each ticket to identify required actions and resolve the issue
+  
+  5. If the issue is unclear, contact the user by phone or email to gather more details and better understanding with their system.
 </p>
 <br />
