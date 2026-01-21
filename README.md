@@ -25,6 +25,15 @@ In this tutorial, you will learn how osTicket manages the ticket lifecycle-from 
 - Working the Issue
 - Resolution
 
+<h2>Access URLs</h2>
+
+-Admin/Analyst Login Page:
+
+<h2>Lab Objective</h2>
+
+
+http://localhost/osTicket/scp/login.php 
+
 <h2>Lifecycle Stages</h2>
 
 <p>
