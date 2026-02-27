@@ -5,6 +5,14 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This guide walks through the ticket lifecycle in the open-source help desk system osTicket, from submission to resolution.
 
+This is the osTicket series
+
+  - https://github.com/CarlDave808/post-install-config
+
+  - https://github.com/CarlDave808/osticket-prereqs
+
+  - https://github.com/CarlDave808/ticket-lifecycle
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
